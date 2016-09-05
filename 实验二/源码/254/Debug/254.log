@@ -1,0 +1,25 @@
+﻿生成启动时间为 2016/8/19 星期五 下午 5:34:40。
+     1>项目“d:\我的资料库\Documents\Visual Studio 2010\Projects\254\254\254.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\254.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\我的资料库\Documents\Visual Studio 2010\Projects\254\Debug\254.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\254.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\我的资料库\Documents\Visual Studio 2010\Projects\254\Debug\254.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\我的资料库\Documents\Visual Studio 2010\Projects\254\Debug\254.lib" /MACHINE:X86 Debug\254.exe.embed.manifest.res
+         Debug\222.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\254.exe.embed.manifest" /manifest Debug\254.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         254.vcxproj -> d:\我的资料库\Documents\Visual Studio 2010\Projects\254\Debug\254.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\254.unsuccessfulbuild”。
+         正在对“Debug\254.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“d:\我的资料库\Documents\Visual Studio 2010\Projects\254\254\254.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.32
